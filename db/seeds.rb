@@ -1,0 +1,11 @@
+bart = Customer.new('Bart', 'Simpson')
+lisa = Customer.new('Lisa', 'Simpson')
+rod = Customer.new('Rod', 'Flanders')
+todd = Customer.new('Todd', 'Flanders')
+bartj = Customer.new('Bart', 'Johnson')
+bart2 = Customer.new('Bart', 'Simpson')
+
+mcd = Restaurant.new('McDonalds')
+bk = Restaurant.new('Burger King')
+wendy = Restaurant.new('Wendys')
+taco = Restaurant.new('Taco Bell')
